@@ -35,6 +35,7 @@ int main()
             printf("Enter salary of employee %d : ",i+1);
             scanf("%d",&e[i].employee_salary);
         }
+       printf("\n change made");
        printf("\nEntered details are");
        for(i=0;i<n;i++)
         {
